@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+awesome+open-source+projects;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=572222&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+awesome+open-source+projects;Welcome+to+my+profile!)](https://git.io/typing-svg)
   ![Image](https://media.discordapp.net/attachments/1495530386808373351/1553482536179597312/Untitled40_20260926220434.png?ex=6ab968da&is=6ab8175a&hm=3c19ed146209209d1ad86c9a945fe530584eb3dce00992486a18410e3071c56c&=&format=webp&quality=lossless)
 <div align="center">
 <sub><i>hi, this is a wip</i></sub>
