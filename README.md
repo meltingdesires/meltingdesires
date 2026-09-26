@@ -1,4 +1,4 @@
-  ![Image](https://media.discordapp.net/attachments/1495530386808373351/1553481282648801370/Untitled39_20260926214638.png?ex=6ab967b0&is=6ab81630&hm=c93af0ecf8e65bdf459f37e2d2abe3aacc9fc2dfaba611502c7ab51924985152&=&format=webp&quality=lossless&width=1024&height=1024)
+  ![Image](https://media.discordapp.net/attachments/1495530386808373351/1553482536179597312/Untitled40_20260926220434.png?ex=6ab968da&is=6ab8175a&hm=3c19ed146209209d1ad86c9a945fe530584eb3dce00992486a18410e3071c56c&=&format=webp&quality=lossless)
 <div align="center">
 <sub><i>hi, this is a wip</i></sub>
   <div align="center">
