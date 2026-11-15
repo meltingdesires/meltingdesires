@@ -1,6 +1,4 @@
-<div align="center">
-
+<p align="center">
 remake
-mostly inactive
-
-</div>   
+  mostly inactive
+</p>   
