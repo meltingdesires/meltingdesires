@@ -6,6 +6,9 @@
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/8fd93595-80e9-4982-90e5-5f22f41b1ecd" />
   <div align="center">
 <sub><i>the only example i got rn,,,</i></sub>
+<div align="center">
+<sub><i>also, if you're a slime tiktok ranter or whatever i can also do layouts like that 👀</i></sub>
+
 
 
 
